@@ -7,3 +7,11 @@ h1.title {
     text-align: center;
     font-size: 60px;
 } 
+a.links {
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+h1.links {
+    text-align: center;
+}
